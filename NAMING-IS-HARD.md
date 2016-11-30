@@ -20,6 +20,7 @@ Naming should cover
  * XLII_
  * fortuity_
  * fotify_
+ * jay_
 
 # Ideas from AQU
 -	Don’t touch binaries names (apps and shared libs), apart if they have “bios” in the name
